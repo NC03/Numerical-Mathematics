@@ -1,0 +1,8 @@
+.vscode/
+*.out
+*.csv
+*.png
+*.R
+.Rhistory
+*.o
+test.cpp
